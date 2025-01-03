@@ -28,7 +28,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/bike-spare-parts-store-backend.git
+git clone https://github.com/Akash575795/Bike-spare-parts-store
 cd bike-spare-parts-store-backend
 Set up the MySQL database:
 
